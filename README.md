@@ -2,7 +2,7 @@
 
 ---
 
-## 👤 Informations Personnelles
+## 👤 Informations sur les étudiants
 * **Nom et Prénom :** Taregh Kaber
 * **Matricule :** C30827
 * **Filière :** DA2I
@@ -13,7 +13,7 @@
 ## 📺 Présentation Vidéo et Explication
 > 💡 **Note :** 
 Pour regarder l'explication complète des étapes du projet, veuillez cliquer sur le lien ci-dessous :
-👉 **[Regarder la vidéo d'explication]([ضع هنا رابط الفيديو الخاص بك])**
+👉 **[Regarder la vidéo d'explication]([Https://drive.google.com/file/d/104P9P2SYVFYnntl7pq6XSNcnIdujYfnW/view?usp=drivesdk])**
 
 ---
 
